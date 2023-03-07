@@ -12,3 +12,5 @@
 
 - <SOS> and <EOS> tags have been added to take into account a 4-gram model. Not using these tokens would lead to a loss in the amount of information extracted from a sentence.
 
+- NLTK has not been used for tokenization, instead, a custom function has been written for the same.
+
