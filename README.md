@@ -4,6 +4,7 @@
 
 - Run the file "kn.ipyb" for creating a language model while performing Kneser-ney Smoothing.
 - Run the file "wb.ipyb" for creating a language model while performing Witten-Bell Smoothing.
+- The corpus directory contains two different corpora (Difference in terms of size).
 
 ## Key Points
 
